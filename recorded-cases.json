@@ -1,0 +1,18 @@
+[
+  {
+    "query": "Can you check on my overdue invoice #9023?",
+    "expected_agent": "invoice.priyadesign.eth"
+  },
+  {
+    "query": "I need some catchy copy written for my new sneaker brand.",
+    "expected_agent": "copy.priyadesign.eth"
+  },
+  {
+    "query": "Is there a force majeure clause in my contract?",
+    "expected_agent": "contract.priyadesign.eth"
+  },
+  {
+    "query": "Can you bake me a cake?",
+    "expected_agent": null
+  }
+]
